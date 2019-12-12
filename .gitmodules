@@ -1,0 +1,6 @@
+[submodule "hmi-speech"]
+	path = hmi-speech
+	url = https://github.com/jobpeters/hmi-speech
+[submodule "hmi-vision"]
+	path = hmi-vision
+	url = https://github.com/jobpeters/hmi-vision
